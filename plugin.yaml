@@ -1,0 +1,15 @@
+---
+game: "Far Cry 3"
+api: 1
+steamID: 220240
+uid: "com.thegreatcabbage.farcry3"
+author: "TheGreatCabbage"
+packageName: "farcry3"
+features:
+- "graphics"
+gameDirectory: "Far Cry 3"
+verificationPaths:
+- "bin/farcry3.exe"
+graphicsConfig: "$!DOCUMENTS!$/My Games/Far Cry 3/GamerProfile.xml"
+keymapConfig: null
+savesFolder: null
